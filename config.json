@@ -1,0 +1,10 @@
+{
+    "token": "your-token",
+    "clientId": "your-clientId",
+    "guildId": "your-guildId",
+    "cloudflare": {
+        "email": "ypur-email",
+        "apiKey": "your-apiKey",
+        "zoneId": "your-zoneId"
+    }
+}
